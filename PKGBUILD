@@ -4,7 +4,7 @@
 # https://github.com/archlinux/svntogit-community/blob/packages/xcursor-bluecurve/trunk/PKGBUILD
 
 pkgname=xcursor-osrs
-pkgver=1.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="X11 Mouse theme using OSRS icons"
 arch=('any')
